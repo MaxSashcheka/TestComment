@@ -12,6 +12,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("111")
+        if (true) {
+            print("222")
+            print("333")
+        }
     }
 
 
